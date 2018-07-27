@@ -11,7 +11,8 @@ namespace Teste_vs2017
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo!!");
-            Console.WriteLine("Mensagem GIT!!");
+            Console.WriteLine("Mensagem GIT 1!!");
+            Console.WriteLine("Mensagem GIT 2!!");
             Console.ReadLine();
         }
     }
