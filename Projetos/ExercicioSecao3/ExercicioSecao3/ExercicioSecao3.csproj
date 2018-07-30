@@ -43,10 +43,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exercicio1\ItemPedido.cs" />
-    <Compile Include="Exercicio1\ModelException.cs" />
+    <Compile Include="Exercicio3\Acessorios.cs" />
+    <Compile Include="Exercicio3\Carro.cs" />
+    <Compile Include="Exercicio3\Marca.cs" />
+    <Compile Include="Exercicio3\TelaEx3.cs" />
+    <Compile Include="ModelException.cs" />
     <Compile Include="Exercicio1\Pedido.cs" />
     <Compile Include="Exercicio1\Produto.cs" />
     <Compile Include="Exercicio1\Tela.cs" />
+    <Compile Include="Exercicio2\Artista.cs" />
+    <Compile Include="Exercicio2\Filme.cs" />
+    <Compile Include="Exercicio2\Participacao.cs" />
+    <Compile Include="Exercicio2\TelaEx2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

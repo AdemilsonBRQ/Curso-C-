@@ -5,7 +5,7 @@ namespace ExercicioSecao3.Exercicio1
 {
     class Tela
     {
-        public int MenuExercicio1()
+        public static int MenuExercicio1()
         {
             Console.WriteLine();
             Console.WriteLine("Digite uma das opções:");

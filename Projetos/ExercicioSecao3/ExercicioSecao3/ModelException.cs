@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExercicioSecao3.Exercicio1
+namespace ExercicioSecao3
 {
     class ModelException:Exception
     {
